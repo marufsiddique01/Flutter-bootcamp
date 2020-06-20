@@ -1,0 +1,4 @@
+#Wed Jun 17 17:48:38 BDT 2020
+base.0=E\:\\Dart and Flutter\\Flutter Bootcamp\\magic_ball\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

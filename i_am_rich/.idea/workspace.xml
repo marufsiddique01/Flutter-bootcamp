@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="80b994b3-c274-4a6b-b2cd-52bf35ccc238" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1dFzmvcjwskhOZJUKVVIIOa6dJ4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Dart and Flutter\Flutter Bootcamp\i_am_rich\images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80b994b3-c274-4a6b-b2cd-52bf35ccc238" name="Default Changelist" comment="" />
+      <created>1592035791542</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592035791542</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="431" y="365" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1592041904658">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="431" y="365" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592041904658" />
+    <state x="374" y="250" key="#main.dart" timestamp="1592036528499">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="374" y="250" key="#main.dart/0.0.1920.1050@0.0.1920.1050" timestamp="1592036528499" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1592047116164">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1592047116164" />
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom" timestamp="1592048036998">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1592048036998" />
+    <state width="1877" height="266" key="GridCell.Tab.0.center" timestamp="1592048036998">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1592048036998" />
+    <state width="1877" height="266" key="GridCell.Tab.0.left" timestamp="1592048036998">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1592048036998" />
+    <state width="1877" height="266" key="GridCell.Tab.0.right" timestamp="1592048036998">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="266" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1592048036998" />
+    <state x="22" y="120" key="SettingsEditor" timestamp="1592036932574">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="22" y="120" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1592036932574" />
+    <state x="93" y="100" width="1178" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1592042933400">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="93" y="100" width="1178" height="800" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592042933400" />
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog" timestamp="1592049540117">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="656" y="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1592049540117" />
+  </component>
+</project>
